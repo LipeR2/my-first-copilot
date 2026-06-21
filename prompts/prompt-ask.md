@@ -8,7 +8,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Python 3.14 + Rust**
+**Stack principal:** **Python 3.14**
 **Ferramentas comuns (assumir como padrão):** uv / pip, FastAPI (quando aplicável), testes com Pytest, lint com Ruff, formatação com Prettier.
 **Observação:** se o contexto indicar outra ferramenta (Flask/conda), adapte o plano.
 
